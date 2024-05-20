@@ -1,5 +1,5 @@
 <p>$\it{\large{\color{#DD6565}이텔릭체,\ 큰글씨,\ 빨간색}}$</p>
-delight the world
+
 
 <!---
 intpboy/intpboy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
